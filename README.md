@@ -17,9 +17,7 @@ Build a balanced investment strategy grounded in data
 
 Define an appropriate investment horizon and rebalancing approach
 
-📊 Interactive Dashboard
 
-An interactive Streamlit dashboard allows real-time exploration of fund characteristics, risk, and performance.
 ## 📊 Interactive Dashboard (Visual Overview)
 
 
@@ -27,12 +25,12 @@ An interactive Streamlit dashboard allows real-time exploration of fund characte
 
 ---
 
-### 🔹 Resilience vs Tariff Risk
+
 ![Resilience vs Tariff Risk](images/newplot%20(3).png)
 
 ---
 
-### 🔹 Fund AUM vs Tariff Exposure
+
 ![Fund AUM vs Tariff Exposure](images/newplot%20(5).png)
 
 ---
