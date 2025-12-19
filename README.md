@@ -200,7 +200,7 @@ streamlit run app.py
 
 👤 Author
 
-Sohel (Azijur Rahaman)
+Azijur Rahaman
 MSc Data Science & Management
 IIM Amritsar
 🏁 Final Note
