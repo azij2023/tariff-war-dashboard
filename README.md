@@ -23,22 +23,22 @@ An interactive Streamlit dashboard allows real-time exploration of fund characte
 ## 📊 Interactive Dashboard (Visual Overview)
 
 ### 🔹 Dashboard Overview
-![Dashboard Overview](images/newplot%20(2).png)
+(images/newplot%20(2).png)
 
 ---
 
 ### 🔹 Resilience vs Tariff Risk
-![Resilience vs Tariff Risk](images/newplot%20(3).png)
+(images/newplot%20(3).png)
 
 ---
 
 ### 🔹 Fund AUM vs Tariff Exposure
-![Fund AUM vs Tariff Exposure](images/newplot%20(5).png)
+(images/newplot%20(5).png)
 
 ---
 
 ### 🔹 Filtered Fund Table
-![Filtered Fund Table](images/newplot%20(7).png)
+(images/newplot%20(7).png)
 
 ---
 
