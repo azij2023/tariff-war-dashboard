@@ -35,7 +35,10 @@ Define an appropriate investment horizon and rebalancing approach
 
 ---
 
-### 🔹 Filtered Fund Table
+![Filtered Fund Table](images/newplot%20(6).png)
+
+---
+
 ![Filtered Fund Table](images/newplot%20(7).png)
 📌 *The dashboard supports interactive filtering by tariff risk, sector, region, fund type, and AUM size.*
 
