@@ -192,3 +192,18 @@ print(
 )
 positive_outliers.to_excel("outputs/positive_return_outliers.xlsx", index=False)
 negative_outliers.to_excel("outputs/negative_return_outliers.xlsx", index=False)
+# -----------------------------
+# Summary statistics by tariff risk
+# -----------------------------
+
+summary_stats = (
+    df.groupby("Tariff_Risk")[[
+        "One_Year_Return",
+        "Volatility",
+        "Tariff_Exposure",
+        "Resilience_Score"
+    ]]
+    .agg(["mean", "median", "std"])
+)
+
+summary_stats.to_excel("outputs/summary_statistics.xlsx")
