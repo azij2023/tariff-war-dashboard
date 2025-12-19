@@ -22,26 +22,23 @@ Define an appropriate investment horizon and rebalancing approach
 An interactive Streamlit dashboard allows real-time exploration of fund characteristics, risk, and performance.
 ## 📊 Interactive Dashboard (Visual Overview)
 
-### 🔹 Dashboard Overview
-(images/newplot%20(2).png)
+
+![Dashboard Overview](images/newplot%20(2).png)
 
 ---
 
 ### 🔹 Resilience vs Tariff Risk
-(images/newplot%20(3).png)
+![Resilience vs Tariff Risk](images/newplot%20(3).png)
 
 ---
 
 ### 🔹 Fund AUM vs Tariff Exposure
-(images/newplot%20(5).png)
+![Fund AUM vs Tariff Exposure](images/newplot%20(5).png)
 
 ---
 
 ### 🔹 Filtered Fund Table
-(images/newplot%20(7).png)
-
----
-
+![Filtered Fund Table](images/newplot%20(7).png)
 📌 *The dashboard supports interactive filtering by tariff risk, sector, region, fund type, and AUM size.*
 
 🔗 Live Dashboard
